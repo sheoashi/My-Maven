@@ -6,7 +6,7 @@ public abstract class AbstractClass
 	public void display()
 	{
 		System.out.println("non abstrct method");
-		System.out.println("first");
+		System.out.println("git test");
 		}
 	}
 
