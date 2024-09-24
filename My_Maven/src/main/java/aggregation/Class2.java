@@ -10,7 +10,7 @@ public class Class2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Class1 cs= new Class1();
+		Class1 cs= new Class1(); // object of other class is created here and call the varible here.
 		cs.add();
 		Class2 cb= new Class2();
 		cb.sub();
